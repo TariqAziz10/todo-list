@@ -37,6 +37,9 @@ input{
     font-size: 19px;
     border-radius: 10px;
 }
+input:hover{
+    background-color: rgb(234, 224, 224);
+}
 button{
     width: 60px;
     height: 41px;
@@ -47,6 +50,9 @@ button{
     cursor: pointer;
     border-radius: 10px;
     font-size: 19px;
+}
+button:hover{
+    border-radius: 50px;
 }
 .text ul{
     position: relative;
